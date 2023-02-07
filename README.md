@@ -1,0 +1,20 @@
+# Maze Puzzle by A* search with Manhattan distance heuristic
+
+The solutoin of A* search with Manhattan distance heuristic for the maze puzzle
+
+# Usage:
+
+python maze3_asearch.py maze0.txt
+
+# Samples:
+
+maze0.txt:  An example in MIT Course CS50 (AI)
+
+maze1.txt:  The example from MIT sample code
+
+maze2.txt:  The example from MIT sample code
+
+maze3.txt:  The example from MIT sample code
+
+maze4_quiz.txt:  MIT Quiz
+
